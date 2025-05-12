@@ -29,7 +29,7 @@ A clean and intuitive Android application built with **Jetpack Compose** and **M
 ---
 
 ## 📸 Screenshots
-🎥 [Click here to watch the demo](./assets/task.mp4)
+🎥 [Click here to watch the demo](https://github.com/sharon2719/Task-Organizer/blob/a3f74fef12951a03d18a330ffb756f3f842a5b32/app/src/main/assets)
 
 
 ---
